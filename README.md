@@ -1,10 +1,10 @@
 # My Hacker Rank Bookmarks
 
-![](https://github.com/Meluiscruz/My_HackerRank_Bookmarks/blob/master/My_icons/hackerrank.svg?raw=true)
+![](https://github.com/Meluiscruz/My_HackerRank_Bookmarks/blob/master/My_icons/hackerrank.svg?raw=false)
 
 ## Project metrics.
 
-![](https://img.shields.io/github/stars/Meluiscruz/My_HackerRank_Bookmark.svg) ![](https://img.shields.io/github/forks/Meluiscruz/My_HackerRank_Bookmark.svg) ![](https://img.shields.io/github/issues/Meluiscruz/My_HackerRank_Bookmark.svg)![](https://img.shields.io/github/tag/Meluiscruz/My_HackerRank_Bookmark.svg)
+![](https://img.shields.io/github/stars/Meluiscruz/My_HackerRank_Bookmarks.svg) ![](https://img.shields.io/github/forks/Meluiscruz/My_HackerRank_Bookmarks.svg) ![](https://img.shields.io/github/issues/Meluiscruz/My_HackerRank_Bookmarks.svg)![](https://img.shields.io/github/tag/Meluiscruz/My_HackerRank_Bookmarks.svg)
 
 ## Scope of the project.
 
@@ -32,7 +32,7 @@ I haven't included the venvs (for Python scripts), neither exe files (for C scri
   - Sales by Match.
   - Simple Array Sum.
  
- - Python.
+- Python.
   - Arrays.
   - Class 2: Find the torsional angle.
   - Classes: Dealing with Complex Numbers.
