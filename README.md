@@ -1,6 +1,6 @@
 # My Hacker Rank Bookmarks
 
-![](https://github.com/Meluiscruz/My_HackerRank_Bookmarks/blob/master/My_icons/hackerrank.svg?raw=false)
+![](https://github.com/Meluiscruz/My_HackerRank_Bookmarks/blob/master/My_icons/hackerrank.svg?raw=true)
 
 ## Project metrics.
 
@@ -43,7 +43,7 @@ I haven't included the venvs (for Python scripts), neither exe files (for C scri
   - Time Delta.
   - Write a Function.
   
- - RegEx.
+- RegEx.
   - Building a smart IDE.
   - Find a word.
   - Validating and Parsing E-mail address.
